@@ -1,4 +1,3 @@
-![Screenshot from 2025-06-11 18-51-47](https://github.com/user-attachments/assets/e960429e-e803-412d-8d30-b1f35401bfb0)
 # Occular-eye-disease-Detection-using-Transfer-learning-with-data-augmentation
 Ocular Eye Disease Detection using Transfer Learning with Data Augmentation
 This project focuses on the automated detection and classification of common ocular diseases using advanced deep learning techniques, leveraging transfer learning for enhanced performance. The primary objective is to develop a robust and accurate model capable of distinguishing between various eye conditions and normal eyes, thereby aiding in early diagnosis and intervention.
@@ -24,3 +23,6 @@ Cataract
 >Results:
 
 Upon rigorous testing, the developed model demonstrated exceptional performance, achieving a test accuracy of 96.79%. This high accuracy underscores the potential of transfer learning with Xception and data augmentation for creating effective tools in ophthalmic disease diagnosis.
+
+![Screenshot from 2025-06-11 18-51-47](https://github.com/user-attachments/assets/e960429e-e803-412d-8d30-b1f35401bfb0)
+
