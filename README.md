@@ -24,5 +24,13 @@ Cataract
 
 Upon rigorous testing, the developed model demonstrated exceptional performance, achieving a test accuracy of 96.79%. This high accuracy underscores the potential of transfer learning with Xception and data augmentation for creating effective tools in ophthalmic disease diagnosis.
 
+
+Experience the Ocular Eye Disease Detection application live on Streamlit Community Cloud! This interactive demo allows you to upload an eye image and receive instant predictions from the deep learning model.
+
+![Screenshot from 2025-06-24 20-58-50](https://github.com/user-attachments/assets/bb288c19-4979-4fc1-a047-5fa5c1d74282)
+
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR_STREAMLIT_APP_URL](https://oculardiseasedetection.streamlit.app/))
+
 ![Screenshot from 2025-06-11 18-51-47](https://github.com/user-attachments/assets/e960429e-e803-412d-8d30-b1f35401bfb0)
 
