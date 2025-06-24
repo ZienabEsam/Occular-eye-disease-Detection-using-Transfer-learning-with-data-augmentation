@@ -1,8 +1,7 @@
 streamlit
-tensorflow==2.10.0 # IMPORTANT: Replace this with the exact TensorFlow version your model was trained with (e.g., 2.12.0, 2.15.0).
-numpy
+tensorflow==2.10.0
+numpy==1.23.0 
 Pillow
-scikit-learn # Your notebook imports sklearn metrics, so it's good to include it.
-opencv-python # Your notebook imports cv2, which comes from opencv-python.
-matplotlib # Your notebook uses matplotlib for plotting.
-
+scikit-learn
+opencv-python
+matplotlib
